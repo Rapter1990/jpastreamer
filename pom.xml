@@ -15,7 +15,7 @@
 	<description>Spring Boot with the usage of Jpastreamer</description>
 	<properties>
 		<java.version>17</java.version>
-		<jpastream.version>1.1.4</jpastream.version>
+		<jpastream.version>3.0.3</jpastream.version>
 		<javafaker.version>1.0.2</javafaker.version>
 	</properties>
 	<dependencies>
