@@ -1,7 +1,7 @@
 # Spring Boot JpaStreamer Example
 
 <p align="center">
-    <img src="screenshots/spring_boot_jpastreamer_icon.png" alt="Main Information" width="500" height="200">
+    <img src="screenshots/spring_boot_jpastreamer_icon.png" alt="Main Information" width="500" height="180">
 </p>
 
 ### 📖 Information
